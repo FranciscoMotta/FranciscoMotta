@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranciscoMotta
-- 👀 I’m interested in embebed systems
+- 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning esp32
-- 💞️ I’m looking to collaborate on embebed systems projects
+- 💞️ I’m looking to collaborate on embedded systems projects
 
 <!---
 FranciscoMotta/FranciscoMotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
