@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @FranciscoMotta
+- I finished my degree in mechatronic engineering.
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning esp32
 - 💞️ I’m looking to collaborate on embedded systems projects
